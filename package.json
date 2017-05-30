@@ -1,0 +1,16 @@
+{
+  "name": "shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spencer Vatrt-Watts",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  }
+}
